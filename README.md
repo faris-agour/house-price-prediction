@@ -7,4 +7,3 @@ House Price Prediction is a crucial application of machine learning in the real 
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Model Training and Evaluation
-- Model Deployment using Flask
