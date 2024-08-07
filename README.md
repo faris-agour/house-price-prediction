@@ -51,7 +51,7 @@ The dataset includes the following columns:
     ```
 5. Select Project file :
    ```sh
-    select > project.ipynb
+   select > project.ipynb
     ```
 
 ## Dependencies
