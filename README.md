@@ -1,4 +1,4 @@
-# Houses Price Prediction
+# House Price Prediction
 
 This project aims to predict house prices in Egypt using various features of the houses such as area, number of bedrooms, bathrooms, and type of house. The project employs data preprocessing techniques and applies linear regression models to make predictions.
 
