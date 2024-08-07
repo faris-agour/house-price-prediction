@@ -5,7 +5,7 @@ This project aims to predict house prices in Egypt using various features of the
 ## Project Structure
 
 - `Egypt_Houses_Price.csv`: The dataset containing information about houses in Egypt.
-- `project.py`: The main script for data preprocessing, model training, and evaluation.
+- `project.ipynb`: The main script for data preprocessing, model training, and evaluation.
 - `README.md`: This file, providing an overview of the project.
 - `AddVenvToJupyter.txt`: Add env to ur project using conda.
 
